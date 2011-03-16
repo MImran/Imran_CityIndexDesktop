@@ -1,0 +1,10 @@
+<Configurations>
+  <UI>
+    <configuration name="opacity">80</configuration>
+    <configuration name="backColor">-32768</configuration>
+    <configuration name="foreColor">-8388544</configuration>
+    <configuration name="fontName">BatangChe</configuration>
+    <configuration name="fontSize">11.5</configuration>
+  </UI>
+  <Symbols />
+</Configurations>

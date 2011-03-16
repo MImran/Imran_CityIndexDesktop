@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configurations>
+  <UI>
+    <configuration name="opacity">100</configuration>
+    <configuration name="backColor">00FF00</configuration>
+    <configuration name="foreColor">FF00CC</configuration>
+    <configuration name="fontName">Arial</configuration>
+    <configuration name="fontSize">10</configuration>
+  </UI>
+  <Symbols>
+    <symbol></symbol>
+  </Symbols>
+</Configurations>
