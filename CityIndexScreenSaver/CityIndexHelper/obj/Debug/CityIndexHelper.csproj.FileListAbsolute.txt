@@ -1,0 +1,34 @@
+E:\Users\Imran\documents\visual studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\Imran\documents\visual studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndexHelper.dll
+E:\Users\Imran\documents\visual studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndexHelper.pdb
+E:\Users\Imran\documents\visual studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\obj\Debug\CityIndexHelper.dll
+E:\Users\Imran\documents\visual studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\obj\Debug\CityIndexHelper.pdb
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CIAPI.dll
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndex.JsonClient.dll
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Common.Logging.dll
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.dll
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.Lightstreamer.dll
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CIAPI.pdb
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndex.JsonClient.pdb
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Common.Logging.pdb
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Newtonsoft.Json.pdb
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.pdb
+E:\Users\Imran\Documents\Visual Studio 2010\Projects\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.Lightstreamer.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndexHelper.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndexHelper.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CIAPI.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndex.JsonClient.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Common.Logging.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Newtonsoft.Json.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.Lightstreamer.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CIAPI.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\CityIndex.JsonClient.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Common.Logging.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\Newtonsoft.Json.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\bin\Debug\StreamingClient.Lightstreamer.pdb
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\obj\Debug\CityIndexHelper.dll
+F:\CityIndexDevelopment\Imran_CityIndexDesktop\CityIndexScreenSaver\CityIndexHelper\obj\Debug\CityIndexHelper.pdb
